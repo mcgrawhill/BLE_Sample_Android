@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.0.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.0.0\\res\\raw\\gtm_analytics"
+    }
+]

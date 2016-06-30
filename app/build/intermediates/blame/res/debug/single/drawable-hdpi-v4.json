@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loging_bg_ip4.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\loging_bg_ip4.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weight_device_setup.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\weight_device_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weight_device_setup.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\weight_device_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_bp_pairing.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_bp_pairing.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_bp_pairing.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_bp_pairing.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_ws.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_ws.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermometer_device_setup.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\thermometer_device_setup.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_bp.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_bp.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_ws.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_ws.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_back_move.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\bottom_back_move.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\BLE_Sample_Android1\\LibSlideMenuold\\unspecified\\res\\drawable-hdpi-v4\\top_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_th_pairing.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_th_pairing.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_th.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_th.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_back_move.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\bottom_back_move.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loging_bg_ip4.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\loging_bg_ip4.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bp_device_setup.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\bp_device_setup.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_ws_pairing.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_ws_pairing.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_bp.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_bp.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\whiterect.xml",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\whiterect.xml"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thermometer_device_setup.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\thermometer_device_setup.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\whiterect.xml",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\whiterect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bp_device_setup.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\bp_device_setup.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_th.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_th.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_th_pairing.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\instruction_th_pairing.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\instruction_ws_pairing.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\instruction_ws_pairing.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.0.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bar.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\app\\build\\intermediates\\exploded-aar\\BLE_Sample_Android\\LibSlideMenuold\\unspecified\\res\\drawable-hdpi-v4\\top_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.0.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    }
+]

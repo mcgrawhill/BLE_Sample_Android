@@ -1,0 +1,221 @@
+-injars 'C:\Users\Saba\AndroidStudioProjects\BLE_Sample_Android1\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Saba\AndroidStudioProjects\BLE_Sample_Android1\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Saba\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Users\Saba\AndroidStudioProjects\BLE_Sample_Android1\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class jp.co.aandd.bleSimpleApp.entities.AndMedical_App_Global {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class jp.co.aandd.bleSimpleApp.gatt.BleConnectService {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.gatt.BleReceivedService {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.SplashActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.utilities.NotificationActivity {
+    <init>();
+}
+
+-keep class com.example.alarm_notifiction_demo.DialogActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DisclaimerActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DashboardActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.CreateAccountActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.base.ADInstructionActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.LoginActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Reminder_Sound_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DeviceSetUpActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Dashboard_Blood_Pressure {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Dashboard_Weight {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.SettingActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.InstructionActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.HelpActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.AboutActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.SharingActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.activity_termscondition {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DashboardActivity1 {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.newFB {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Googleplus {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.User_GraphBoard {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Set_Goals_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.WheelActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.BloodPressurePagerActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.User_graphboard1 {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Set_Reminder_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Set_Alarm_Reminder_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Reminder_Label_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Reminder_Repeat_Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.ViewPagerStyle1Activity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.WeightScalePagerActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.LifeTracker {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Manage_user {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Add_New_User {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Weight_Scale_Measurement {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.SampleActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DashboardActivitySal {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.DialogActivity {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.BluetoothLeService {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Services.UploadReadingsService {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.AlarmReceiver {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.Weight_scale_dashboard {
+    <init>();
+}
+
+-keep class jp.co.aandd.bleSimpleApp.ManageSection {
+    <init>();
+}
+
+-keep class com.microsoft.hsg.android.ShellActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

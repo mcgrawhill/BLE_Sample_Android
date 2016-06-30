@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\add_icon_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\add_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\list_menu_icon.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\list_menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bluetooth_icon_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\bluetooth_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\setting_icon_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\setting_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\light_blue_row_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\light_blue_row_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\manage_icon.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\manage_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\slidemenu_bg.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\slidemenu_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrowup.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrowup.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\account_icon_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\account_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\right_arrow_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\right_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\list_menu_icon.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\list_menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrowdown.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrowdown.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\right_top_arrow.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\right_top_arrow.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\div_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\div_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\account_icon_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\account_icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\add_icon_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\add_icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\right_top_arrow.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\right_top_arrow.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\help_icon_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\help_icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\light_blue_row_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\light_blue_row_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\setting_icon_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\setting_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrow_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\logo_white.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\logo_white.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\manage_icon.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\manage_icon.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\bluetooth_icon_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\bluetooth_icon_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrowdown.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrowdown.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\right_arrow_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\right_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\blue_row_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\blue_row_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrowup.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrowup.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\slidemenu_bg.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\slidemenu_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\div_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\div_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\blue_row_menu.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\blue_row_menu.png"
+    },
+    {
+        "merged": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\logo_white.png",
+        "source": "D:\\Stella\\BLE_Sample_Android\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\help_icon_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\help_icon_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\arrow_menu.png",
+        "source": "C:\\Users\\Saba\\AndroidStudioProjects\\BLE_Sample_Android1\\LibSlideMenuold\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\arrow_menu.png"
+    }
+]
